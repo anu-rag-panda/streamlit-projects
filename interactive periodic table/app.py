@@ -92,9 +92,9 @@ if 'element_details' in st.session_state:
     - *Category*: {elem.get('groupBlock', 'N/A')}
     - *Phase*: {elem.get('phase', 'N/A')}
     - *Density*: {elem.get('density', 'N/A')} g/cm³
-    - *Melting Point*: {elem.get('meltingPoint', 'N/A')} K
-    - *Boiling Point*: {elem.get('boilingPoint', 'N/A')} K
-    - *Electron Configuration*: {elem.get('electronConfiguration', 'N/A')}
+    - *Melting Point*: {elem.get('melt', 'N/A')} K
+    - *Boiling Point*: {elem.get('boil', 'N/A')} K
+    - *Electron Configuration*: {elem.get('electron_configuration', 'N/A')}
     - *Year Discovered*: {elem.get('yearDiscovered', 'N/A')}
     """)
     
