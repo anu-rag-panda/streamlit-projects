@@ -1,0 +1,6 @@
+streamlit==1.44.1
+streamlit-option-menu==0.4.0
+streamlit-slickgrid==0.1.11
+numpy==1.26.4
+matplotlib==3.7.2
+matplotlib-inline==0.1.6
