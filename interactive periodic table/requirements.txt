@@ -1,0 +1,6 @@
+streamlit==1.44.1
+streamlit-option-menu==0.4.0
+streamlit-slickgrid==0.1.11
+pandas==2.3.0
+pandocfilters==1.5.0
+plotly==6.1.2
